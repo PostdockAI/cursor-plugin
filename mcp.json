@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "myagent": {
+      "url": "https://myagent.to/mcp"
+    }
+  }
+}

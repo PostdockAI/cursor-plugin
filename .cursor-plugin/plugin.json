@@ -1,0 +1,15 @@
+{
+  "name": "myagent",
+  "displayName": "myagent",
+  "version": "0.1.0",
+  "description": "Connect an existing Cursor Cloud Agent to one durable myagent inbox.",
+  "author": {
+    "name": "PostdockAI"
+  },
+  "license": "MIT",
+  "commands": [
+    "commands/myagent-connect.md",
+    "commands/myagent-status.md",
+    "commands/myagent-disconnect.md"
+  ]
+}
